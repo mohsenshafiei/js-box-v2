@@ -52,3 +52,6 @@
 #### NOTE-8
 - A functor is a value, and by value we mean could be a collection of values over which those values in it can be mapped.
 - In fact any data structure for which we identified and defined a map operation that constitutes or gives the characteristic that it behaves as a functor.
+
+#### NOTE-9
+- Monad: a pattern for pairing data with a set of predictable behaviors that let it interact with other data+behavior pairings (monads)
